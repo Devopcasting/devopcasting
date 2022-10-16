@@ -8,7 +8,7 @@
 
 ## Love to learn
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/devopcasting/devopcasting/master/img/banner.png" />
+  <img align="center" alt="Skills" src="https://github.com/devopcasting/devopcasting/blob/master/img/banner.png" />
 </p>
 ## Latest Blog Posts
 
