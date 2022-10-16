@@ -6,6 +6,10 @@
   <a href="https://https://devopcasting.quora.com">Quora</a>
 </p>
 
+## Love to learn
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/devopcasting/devopcasting/master/img/banner.png" />
+</p>
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
